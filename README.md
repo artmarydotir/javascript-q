@@ -84,7 +84,7 @@ let myArray = [1, 3, 'hey', 'how you doin'];
 ```
 -----
 
-###### 10.  What's the output? Explain your
+###### 10.  What's the output? Explain your answer
 
 ```
 var a1 = "true";
